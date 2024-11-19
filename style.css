@@ -7,6 +7,7 @@ body {
 .buttonstyle{
     background-color:black;
     color:white;
+    font-weight:bold;
 }
 
 header {
